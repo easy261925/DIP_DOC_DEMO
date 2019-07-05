@@ -1,20 +1,3 @@
-
+*~
 _book
 .DS_Store
-# dependencies
-**/node_modules
-
-# production
-/dist
-/.vscode
-
-/coverage
-.idea
-*bak
-.vscode
-
-# visual studio code
-.history
-*.log
-
-.temp/**
